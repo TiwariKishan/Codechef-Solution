@@ -72,5 +72,3 @@ int main()
     }
 return 0;
 }
-ub.com/TiwariKishan/Codechef-Solution.git
-git push -u origin master
