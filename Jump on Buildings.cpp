@@ -1,4 +1,4 @@
-git remote add origin https://gith/*
+/*
   Author - KISHAN TIWARI
   Dream bigger. Do bigger.
   Wake up with determination. Go to bed with satisfaction.
